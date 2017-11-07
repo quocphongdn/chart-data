@@ -1,4 +1,3 @@
-'use strict';
 
 var svg, tooltip, biHiSankey, path, defs, colorScale, highlightColorScale, isTransitioning;
 
