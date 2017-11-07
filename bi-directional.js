@@ -1,4 +1,3 @@
-
 var svg, tooltip, biHiSankey, path, defs, colorScale, highlightColorScale, isTransitioning;
 
 var OPACITY = {
